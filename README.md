@@ -1,6 +1,8 @@
 # Data-Warehouse-with-BigQuery
 
 Designing and Implementing a Data Warehouse for Nestle Marketing and Distribution
+
+
 🎯 Project Overview
 This project involved the design, implementation, and analysis of a data warehouse solution specifically tailored for the Marketing and Distribution Department of Nestle. The primary goal was to transform raw sales and purchase data into a structured, query-optimized format to support advanced business intelligence (BI) reporting and analytical decision-making.
 

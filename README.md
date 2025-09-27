@@ -59,7 +59,7 @@ I took on the roles of sole Data Analyst and Project Manager for this project, w
 
 Collaboration and Guidance:
 
-- Coursera Course: I independently utilized the "Build a Data Warehouse Using BigQuery" course to guide the implementation of best practices for cloud data warehousing.
+- Coursera Course: I independently utilized the "Build a Data Warehouse Using BigQuery" course to guide the implementation of best practices for cloud data warehousing. [Course](https://www.coursera.org/learn/build-a-data-warehouse-using-bigquery/home/module/1)
 
 - Lecturer Guidance: I worked closely with my lecturer to receive feedback and ensure the design and implementation met all academic and technical requirements.
 

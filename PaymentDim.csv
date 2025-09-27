@@ -1,0 +1,6 @@
+PaymentTypeKey,Payment Type
+PT01,Cash
+PT02,Credit Cards
+PT03,Debit Cards
+PT04,Bank Transfers
+PT05,Checks

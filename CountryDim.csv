@@ -1,0 +1,69 @@
+Country_ID,Country,Region
+CAM,Cameroon,Central-West Africa
+CIV,Côte d'Ivoire,Central-West Africa
+GHA,Ghana,Central-West Africa
+NIG,Nigeria,Central-West Africa
+SEN,Senegal,Central-West Africa
+ETH,Ethiopia,East & Southern Africa
+KEN,Kenya,East & Southern Africa
+MOZ,Mozambique,East & Southern Africa
+SAF,South Africa,East & Southern Africa
+TAN,Tanzania,East & Southern Africa
+EGY,Egypt,Middle East
+IRA,Iran,Middle East
+LEB,Lebanon,Middle East
+SAU,Saudi Arabia,Middle East
+UAE,United Arab Emirates,Middle East
+ALG,Algeria,North Africa
+MOR,Morocco,North Africa
+TUN,Tunisia,North Africa
+BRA,Brazil,South America
+CAN,Canada,North America
+USA,United States,North America
+AUS,Australia,Oceania
+NZL,New Zealand,Oceania
+CHI,China,Asia
+IND,India,Asia
+INO,Indonesia,Asia
+JPN,Japan,Asia
+MAL,Malaysia,Asia
+PAK,Pakistan,Asia
+PHI,Philippines,Asia
+THA,Thailand,Asia
+AUT,Austria,Central & Eastern Europe
+BUL,Bulgaria,Central & Eastern Europe
+CZE,Czech Republic,Central & Eastern Europe
+HUN,Hungary,Central & Eastern Europe
+UKR,Ukraine,Central & Eastern Europe
+SLO,Slovakia,Central & Eastern Europe
+BEL,Belgium,Western Europe
+FRA,France,Western Europe
+GER,Germany,Western Europe
+ITA,Italy,Europe
+NET,Netherlands,Western Europe
+POL,Poland,Central & Eastern Europe
+RUS,Russia,Central & Eastern Europe
+SPA,Spain,Western Europe
+SWI,Switzerland,Western Europe
+UKG,United Kingdom,Western Europe
+DOM,Dominican Republic,Caribbean
+JAM,Jamaica,Caribbean
+TRI,Trinidad and Tobago,Caribbean
+COL,Colombia,Andean Region
+ECU,Ecuador,Andean Region
+PER,Peru,Andean Region
+VEN,Venezuela,Andean Region
+COS,Costa Rica,Mexico & Central America
+GUA,Guatemala,Mexico & Central America
+HON,Honduras,Mexico & Central America
+MEX,Mexico,Mexico & Central America
+NIC,Nicaragua,Mexico & Central America
+PAN,Panama,Mexico & Central America
+ARG,Argentina,Southern Cone
+CHL,Chile,Southern Cone
+PAR,Paraguay,Southern Cone
+URU,Uruguay,Southern Cone
+DEN,Denmark,Northern Europe
+FIN,Finland,Northern Europe
+NOR,Norway,Northern Europe
+SWE,Sweden,Northern Europe

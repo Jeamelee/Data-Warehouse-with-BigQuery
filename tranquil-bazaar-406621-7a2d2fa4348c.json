@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tranquil-bazaar-406621",
+  "private_key_id": "7a2d2fa4348cf377897cfccfb50b36cc4d6604e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDoiiNljaTuBHGr\nZAoLrRjgvSBjl7tpnehpkeizmVxDsXsYqUjMu45+P8YQgRWgDTwGwKvhYvGiU9B0\nPptY3eoIlMleHr/RUXC/tLoOQoBE58XD4iEo86tfbpKpAqLIojFhKd3hPC0XcIWs\n+Nh2+I6ZuiXfjgBRvYfWhyD3XoTO1aAhv49US/kYvkyQH7gCw1RPx+/75TUQ+Vhv\nwTYXJAK94cYe/RCVJkPRnWSSLtZqDCyfnBq0XKjaF8JVCXMjyslZd/tNMPco4R6e\nlfOMjyhKyzqBKEztedItUJKd84fTcak2khcMsZA8Lp2kmzMOpi/JNwfkyrv98LEv\nNaDv6zcLAgMBAAECggEACtCh5M85pHhAcSAt920NgyZIo1kjNj5J2N8YW4H+cIeI\nmhUFdcAjWGvO4mWeg9sZt5auZ8UaR9puD3n576AiilOhKed0NF/9Rm05WgBtxsag\nxAN4V1c92SpjV8jvmTUx5rrzvs31quloziqkpqPYvf2SVVtdWG/gKXIPbnHO62+d\nWHceiICzPuKGCitxGkthnXlSe7vgAtlusR2iwbMox4jOptmimWr2OWAX5I3fhRcI\nC4QG6r6hROcqAorWkak+Ytzaz1grCpPYg5zLdpPNu5xF0Pc8QbMyfjobHSZCRsr1\n9i62RNhH8sbZIFqlbW4DubQe8/47x7St/4UJqtFSAQKBgQD3StR8Db5EYw3sF3Zl\nipmb51VUcejJkuE/rqbN5ptrSgKD/gJJWqJQWdjKQsZP3qMVHe1s0MBkrxvNkgHN\nj4SVJJ8qkbgkvaQGJIs7iXZkWp8MC0RHrpeh6rZ0KxEhEUEDHJmHBMJSwfzsj1De\nnpO/6S+PcIliyG4E2VgXbM61IQKBgQDwulKibOrJku/LlW3rLzgsk+AiK2I8kMla\nY1fl5Mg3JHPncu3j3VLuZnCBuxo9upD5unQEq2Ag7nmyGUzCw/76E6ad/GXO1Cap\np/VLjOaufG9A1Yznmk9b0Kl13EKImhtrjHneWK+tbjNhMTGnv72ttw4icHXG54eR\nxyoJMDb6qwKBgFYHKzpo0Ysa5on+c4rJl7yb0pyI8BHHziKIULEKi4Dcg1mFsSfx\npsvLJdbfOfwpGJTND36udG/SVxrBs2zeg6Ia1mBJx0TI0Fnutp0kqhIpUHExLjS9\nsTR74bMyFEhrpzE87tAAwNVndOSayuhXRFEb/xaocLLzxQpczf+AM7zhAoGAKWZx\n5btDmc0qbmHRmJvzVj9MUbQSXgYsit4A9OmmwU0Ene53GTQsGhIGEVmjRrB6VGiL\noW3zx1YcGdQeDnT0uf99LTiGLc7wo0beedLOrX17CLRxWjeApHK7YiiyTJnsU0/C\necnY1MPaFEIInyfrsB+GT8f1iXKyLxEImrHvEqcCgYB1gOc4sRc2D3Kjd67Iyase\njA7PJc2yfZm7Q5jukPydwNi8ZTd4+P0nDQND/NOqERZNX6aa7qEKTkKVCwMz3U4g\nueBwEp9fd1nVFFRS6HVBAyejfYcBauwznRU9KKBK9V5GAgRIkqZbDZwzVLsH+EL1\nrrxhcrhaFwJcCcJ/CJQBVg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "create-bigquery-warehouse@tranquil-bazaar-406621.iam.gserviceaccount.com",
+  "client_id": "109704559459141396637",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/create-bigquery-warehouse%40tranquil-bazaar-406621.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

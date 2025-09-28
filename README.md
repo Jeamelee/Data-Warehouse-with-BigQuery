@@ -1,6 +1,7 @@
 Designing and Implementing a Data Warehouse for Nestle Marketing and Distribution
 
 🎯 Project Overview
+
 This project involved the design, implementation, and analysis of a data warehouse solution specifically tailored for the Marketing and Distribution Department of Nestle. The primary goal was to transform raw sales and purchase data into a structured, query-optimized format to support advanced business intelligence (BI) reporting and analytical decision-making.
 
 The project successfully demonstrated proficiency in data warehousing principles, the ETL (Extract, Transform, Load) process, dimensional modeling (Star Schema), and data retrieval using advanced SQL techniques.
